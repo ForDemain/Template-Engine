@@ -1,0 +1,13 @@
+{
+  "env": {
+    "mocha": true
+  },
+  "plugins": [
+    "mocha"
+  ],
+  "rules": {
+    "@typescript-eslint/no-var-requires": "off",
+    "no-unused-expressions": "off",
+    "no-new": "off"
+  }
+}
